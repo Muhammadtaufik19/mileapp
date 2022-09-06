@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email or Username_email or username</name>
+   <tag></tag>
+   <elementGuidId>07a28736-c1cc-4685-b976-a13a8c82209a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='email or username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;email or username&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fae128c0-ffbb-4501-a4ed-55ca40857ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>d7ea156c-350a-498d-b6b1-0a21dac917ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>015aba7a-b685-46be-91b4-90875924a2e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>ede84ff4-be66-4c9f-92b3-46496205f87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Input your email or username</value>
+      <webElementGuid>1ca59293-1695-4367-bf43-b24889ffc437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email or username</value>
+      <webElementGuid>1e7eb3de-4e0f-4731-bfe9-09b4ffe5600f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__inner</value>
+      <webElementGuid>5f034b74-aae6-4ae6-a9ad-a806bf4c6f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;login_page&quot;]/div[@class=&quot;bg&quot;]/div[@class=&quot;container login_container&quot;]/div[@class=&quot;inner_content el-row is-justify-left&quot;]/div[@class=&quot;el-col el-col-24 el-col-xs-24 el-col-sm-24 el-col-md-8 el-col-lg-8 el-col-xl-8&quot;]/div[@class=&quot;el-row&quot;]/div[@class=&quot;el-col el-col-24 el-col-xs-24 el-col-sm-24 el-col-md-24 el-col-lg-24 el-col-xl-24&quot;]/div[@class=&quot;login_card&quot;]/form[@class=&quot;el-form inputLogin&quot;]/div[@class=&quot;el-form-item form-dialog-item&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-input is-disabled&quot;]/input[@class=&quot;el-input__inner&quot;]</value>
+      <webElementGuid>97a43c40-1a0a-45b4-b82f-f9b3b977e3a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='email or username']</value>
+      <webElementGuid>820c0edc-3ca1-4e44-8066-85b53feca8fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/div/div/div/div[2]/form[2]/div/div/div/input</value>
+      <webElementGuid>bfbac075-c9a8-4116-a867-b7dfba619105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[2]/div/div/div/input</value>
+      <webElementGuid>2cae6c46-657c-466e-a2c7-2681507b97dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Input your email or username' and @name = 'email or username']</value>
+      <webElementGuid>0f2a45a7-3987-468a-b663-aebf594186ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
